@@ -17,7 +17,7 @@
       class="bg-blue-500 text-white px-3 py-1 rounded-md text-xs"
       on:click={toggleMockWallet}
     >
-      Enable Mock Wallet
+      Use Mock Wallet
     </button>
   </div>
 {/if}
